@@ -1,6 +1,6 @@
-## Developed live on twitch
+## The Last Algorithms Course You'll Need
 
-[ThePrimeagen](https://twitch.tv/ThePrimeagen)
+[Course on FrontendMasters](https://frontendmasters.com/courses/algorithms/)
 
 ## Naming
 
